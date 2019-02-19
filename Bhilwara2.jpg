@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<!-- saved from url=(0024)http://bhilwarainfo.com/ -->
+<html class="csstransforms csstransforms3d csstransitions js" lang="en-US" style="overflow-y: hidden;"><!-- head --><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<!-- meta -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Bhilwara</title>
+
+<meta name="description" content="IT Staffing and service company">
+
+<link rel="shortcut icon" href="http://weble.in/bhilwara/wp-content/uploads/2018/07/image001-2.jpg" type="image/x-icon">	
+
+<!-- wp_head() -->
+<script>
+//<![CDATA[
+window.mfn_ajax = "http://bhilwarainfo.com/wp-admin/admin-ajax.php";
+window.mfn_nicescroll = 40;
+window.mfn_sliders = {blog: 0,clients: 0,offer: 0,portfolio: 0,shop: 0,slider: 0,testimonials: 0};
+//]]>
+</script>
+<link rel="dns-prefetch" href="http://fonts.googleapis.com/">
+<link rel="dns-prefetch" href="http://s.w.org/">
+<link rel="alternate" type="application/rss+xml" title="Bhilwara » Feed" href="http://bhilwarainfo.com/index.php/feed/">
+<link rel="alternate" type="application/rss+xml" title="Bhilwara » Comments Feed" href="http://bhilwarainfo.com/index.php/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Bhilwara » Home Comments Feed" href="http://bhilwarainfo.com/index.php/home/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/bhilwarainfo.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="./Bhilwara2_files/wp-emoji-release.min.js.download" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="rs-plugin-settings-css" href="./Bhilwara2_files/settings.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+.tp-caption a{-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}
+</style>
+<link rel="stylesheet" id="style-css" href="./Bhilwara2_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="base-css" href="./Bhilwara2_files/base.css" type="text/css" media="all">
+<link rel="stylesheet" id="btn-css" href="./Bhilwara2_files/buttons.css" type="text/css" media="all">
+<link rel="stylesheet" id="icons-css" href="./Bhilwara2_files/mfn-icons.css" type="text/css" media="all">
+<link rel="stylesheet" id="isotope-css" href="./Bhilwara2_files/isotope.css" type="text/css" media="all">
+<link rel="stylesheet" id="grid-css" href="./Bhilwara2_files/grid.css" type="text/css" media="all">
+<link rel="stylesheet" id="layout-css" href="./Bhilwara2_files/layout.css" type="text/css" media="all">
+<link rel="stylesheet" id="shortcodes-css" href="./Bhilwara2_files/shortcodes.css" type="text/css" media="all">
+<link rel="stylesheet" id="variables-css" href="./Bhilwara2_files/variables.css" type="text/css" media="all">
+<link rel="stylesheet" id="animations-css" href="./Bhilwara2_files/animations.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="colorpicker-css" href="./Bhilwara2_files/colorpicker.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-ui-css" href="./Bhilwara2_files/jquery.ui.all.css" type="text/css" media="all">
+<link rel="stylesheet" id="jplayer-css" href="./Bhilwara2_files/jplayer.blue.monday.css" type="text/css" media="all">
+<link rel="stylesheet" id="prettyPhoto-css" href="./Bhilwara2_files/prettyPhoto.css" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-1240-css" href="./Bhilwara2_files/responsive-1240.css" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-css" href="./Bhilwara2_files/responsive.css" type="text/css" media="all">
+<link rel="stylesheet" id="skin-gold-css" href="./Bhilwara2_files/style(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="style-php-css" href="./Bhilwara2_files/style.php" type="text/css" media="all">
+<link rel="stylesheet" id="Roboto-css" href="./Bhilwara2_files/css" type="text/css" media="all">
+<link rel="stylesheet" id="Patua+One-css" href="./Bhilwara2_files/css(1)" type="text/css" media="all">
+<link rel="stylesheet" id="custom-css" href="./Bhilwara2_files/custom.css" type="text/css" media="all">
+<script type="text/javascript" src="./Bhilwara2_files/jquery.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/jquery-migrate.min.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/jquery.themepunch.tools.min.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/jquery.themepunch.revolution.min.js.download"></script>
+<link rel="https://api.w.org/" href="http://bhilwarainfo.com/index.php/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://bhilwarainfo.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://bhilwarainfo.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.9">
+<link rel="canonical" href="http://bhilwarainfo.com/">
+<link rel="shortlink" href="http://bhilwarainfo.com/">
+<link rel="alternate" type="application/json+oembed" href="http://bhilwarainfo.com/index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbhilwarainfo.com%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://bhilwarainfo.com/index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbhilwarainfo.com%2F&amp;format=xml">
+<style>
+#Top_bar .menu > li > a{color:#e2d5aa;}
+
+#Top_bar .menu > li > a span:not(.description){padding:0 10px;}
+
+.header-classic #Top_bar{background-color:#2f69bf;}
+#Top_bar #logo{height:80px;}
+
+.column_column ul{color:#626262; font-size:100%; line-height:1.2;}
+
+p{text-align:justify;}
+</style>
+<style>
+.header-classic #Top_bar{background-color:#2f69bf;}
+#Top_bar #logo{height:auto;}
+
+ 
+</style>
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script>
+//<![CDATA[
+jQuery(window).load(function(){
+var retina = window.devicePixelRatio > 1 ? true : false;if(retina){var retinaEl = jQuery("#logo img");var retinaLogoW = retinaEl.width();var retinaLogoH = retinaEl.height();retinaEl.attr("src","http://weble.in/bhilwara/wp-content/uploads/2018/07/logonew.png").width(retinaLogoW).height(retinaLogoH)}});
+//]]>
+</script>
+</head>
+
+<!-- body -->
+<body class="home page-template-default page page-id-487 template-slider  color-gold layout-full-width header-classic minimalist-header header-menu-right sticky-header nice-scroll">
+	
+		
+		
+	<!-- #Wrapper -->
+	<div id="Wrapper">
+	
+				
+			
+		<!-- #Header_bg -->
+		<div id="Header_wrapper">
+	
+			<!-- #Header -->
+			<header id="Header">
+				
+
+<!-- .header_placeholder 4sticky  -->
+<div class="header_placeholder"></div>
+
+<div id="Top_bar">
+	<div class="container">
+		<div class="column one">
+		
+			<div class="top_bar_left clearfix" style="width: 1166px;">
+			
+				<!-- .logo -->
+				<div class="logo">
+					<h1><a id="logo" href="http://bhilwarainfo.com/" title="Bhilwara"><img class="scale-with-grid" src="http://weble.in/bhilwara/wp-content/uploads/2018/07/logonew.png" alt="Bhilwara"></a></h1>				</div>
+			
+				<div class="menu_wrapper">
+					<!-- #menu -->
+					<nav id="menu" class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-487 current_page_item"><a href="http://bhilwarainfo.com/"><span>Home</span></a></li>
+<li id="menu-item-558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children submenu"><a href="http://bhilwarainfo.com/index.php/aboutus/"><span>About us</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-557" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://bhilwarainfo.com/index.php/history/"><span>History</span></a></li>
+	<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://bhilwarainfo.com/index.php/awards-and-recognition/"><span>Awards and Recognition</span></a></li>
+	<li id="menu-item-587" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://bhilwarainfo.com/index.php/quality/"><span>Quality</span></a></li>
+	<li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://bhilwarainfo.com/index.php/clients-partners/"><span>Clients &amp; Partners</span></a></li>
+	<li id="menu-item-515" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://bhilwarainfo.com/#"><span>Testimonials</span></a></li>
+	<li id="menu-item-591" class="menu-item menu-item-type-post_type menu-item-object-page last-item"><a href="http://bhilwarainfo.com/index.php/news-events/"><span>News &amp; Events</span></a></li>
+</ul>
+<span class="menu-toggle"></span></li>
+<li id="menu-item-628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children submenu"><a href="http://bhilwarainfo.com/index.php/products-and-services/"><span>Products and Services</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-627" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://bhilwarainfo.com/index.php/infrastructure-management-services/"><span>Infrastructure Management Services</span></a></li>
+	<li id="menu-item-626" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://bhilwarainfo.com/index.php/bigdata-analytics/"><span>Big Data / Analytics</span></a></li>
+	<li id="menu-item-623" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://bhilwarainfo.com/index.php/software-product-development-service/"><span>Software/Product Development Service</span></a></li>
+	<li id="menu-item-622" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://bhilwarainfo.com/index.php/testing-services/"><span>Testing Services</span></a></li>
+	<li id="menu-item-621" class="menu-item menu-item-type-post_type menu-item-object-page last-item"><a href="http://bhilwarainfo.com/index.php/it-staffing-services/"><span>IT Staffing Services</span></a></li>
+</ul>
+<span class="menu-toggle"></span></li>
+<li id="menu-item-695" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://companies.naukri.com/bhilwarainfo-dev/"><span>Careers</span></a></li>
+<li id="menu-item-630" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://bhilwarainfo.com/index.php/csr/"><span>CSR</span></a></li>
+<li id="menu-item-629" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://bhilwarainfo.com/index.php/contact-us/"><span>Contact Us</span></a></li>
+</ul></nav>					<a class="responsive-menu-toggle" href="http://bhilwarainfo.com/#">
+						<i class="icon-menu"></i>					</a>					
+				</div>			
+				
+				<div class="secondary_menu_wrapper">
+					<!-- #secondary-menu -->
+									</div>
+				
+				<div class="banner_wrapper">
+									</div>
+				
+				<div class="search_wrapper">
+					<!-- #searchform -->
+										<form method="get" id="searchform" action="http://bhilwarainfo.com/">
+						<i class="icon_search icon-search"></i>
+						<a href="http://bhilwarainfo.com/#" class="icon_close"><i class="icon-cancel"></i></a>
+						<input type="text" class="field" name="s" id="s" placeholder="Enter your search">			
+						<input type="submit" class="submit" value="" style="display:none;">
+					</form>
+				</div>				
+				
+			</div>
+			
+						
+		</div>
+	</div>
+</div>	
+				<div class="mfn-main-slider" id="mfn-rev-slider"><!-- START REVOLUTION SLIDER 4.6.0 fullwidth mode -->
+
+<div id="rev_slider_1_2_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin: 0px auto; padding: 0px; max-height: 450px; height: 450px; overflow: visible;">
+	<div id="rev_slider_1_2" class="rev_slider fullwidthabanner revslider-initialised tp-simpleresponsive" style="max-height: 450px; height: 450px;">
+<ul style="display: block; overflow: hidden; width: 100%; height: 100%; max-height: 450px;">	<!-- SLIDE  -->
+	<li data-transition="slidehorizontal" data-slotamount="7" data-masterspeed="300" data-saveperformance="off" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;" class="active-revslide">
+		<!-- MAIN IMAGE -->
+		<div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="center top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="http://bhilwarainfo.com/wp-content/uploads/2018/07/slide1.jpg" data-src="http://bhilwarainfo.com/wp-content/uploads/2018/07/slide1.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;http://bhilwarainfo.com/wp-content/uploads/2018/07/slide1.jpg&quot;); background-size: cover; background-position: center top; width: 100%; height: 100%; opacity: 1; visibility: hidden;"></div></div>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption large_text sfl tp-resizeme start" data-x="134" data-y="179" data-speed="1000" data-start="200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 2; white-space: nowrap; transition: all 0s ease 0s; min-height: 0px; min-width: 0px; line-height: 40px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-size: 40px; left: 222px; top: 179px; visibility: visible; opacity: 0; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00166, -50, 0, 0, 1);">Single Minded Focus
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption medium_light_white skewfromleft tp-resizeme start" data-x="138" data-y="229" data-speed="300" data-start="800" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 3; white-space: nowrap; transition: all 0s ease 0s; min-height: 0px; min-width: 0px; line-height: 36px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-size: 30px; left: 226px; top: 229px; visibility: visible; opacity: 0; transform: matrix3d(1, 0, 0, 0, 0.99619, 0.08715, 0, 0, 0, 0, 1, -0.00166, -374, 0, 0, 1);">Imbibed to move successfully
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="slidehorizontal" data-slotamount="7" data-masterspeed="300" data-saveperformance="off" style="width: 100%; height: 100%; overflow: hidden; z-index: 20; visibility: inherit; opacity: 1;" class="active-revslide current-sr-slide-visible">
+		<!-- MAIN IMAGE -->
+		<div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="center top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="http://bhilwarainfo.com/wp-content/uploads/2018/10/slide2.jpg" data-src="http://bhilwarainfo.com/wp-content/uploads/2018/10/slide2.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;http://bhilwarainfo.com/wp-content/uploads/2018/10/slide2.jpg&quot;); background-size: cover; background-position: center top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="slidehorizontal" data-slotamount="7" data-masterspeed="300" data-saveperformance="off" style="width: 100%; height: 100%; overflow: hidden; visibility: hidden; opacity: 0; z-index: 18;" class="active-revslide">
+		<!-- MAIN IMAGE -->
+		<div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="center top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="http://bhilwarainfo.com/wp-content/uploads/2018/10/slide3.jpg" data-src="http://bhilwarainfo.com/wp-content/uploads/2018/10/slide3.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;http://bhilwarainfo.com/wp-content/uploads/2018/10/slide3.jpg&quot;); background-size: cover; background-position: center top; width: 100%; height: 100%; visibility: hidden; opacity: 0;"></div></div>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption large_text sfl tp-resizeme start" data-x="125" data-y="151" data-speed="1000" data-start="200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 2; white-space: nowrap; transition: all 0s ease 0s; min-height: 0px; min-width: 0px; line-height: 40px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-size: 40px; left: 213px; top: 151px; visibility: visible; opacity: 0; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00166, -50, 0, 0, 1);">Software Development
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption medium_light_white skewfromleft tp-resizeme start" data-x="138" data-y="229" data-speed="300" data-start="800" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 3; white-space: nowrap; transition: all 0s ease 0s; min-height: 0px; min-width: 0px; line-height: 36px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-size: 30px; left: 226px; top: 229px; visibility: visible; opacity: 0; transform: matrix3d(1, 0, 0, 0, 0.99619, 0.08715, 0, 0, 0, 0, 1, -0.00166, -15, 0, 0, 1);">
+		</div>
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden; width: 4.43333%; transform: translate3d(0px, 0px, 0px);"></div>	<div class="tp-loader spinner0" style="display: none;"><div class="dot1"></div><div class="dot2"></div><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></div></div>
+
+			<script type="text/javascript">
+
+				/******************************************
+					-	PREPARE PLACEHOLDER FOR SLIDER	-
+				******************************************/
+				
+
+				var setREVStartSize = function() {
+					var	tpopt = new Object();
+						tpopt.startwidth = 1180;
+						tpopt.startheight = 450;
+						tpopt.container = jQuery('#rev_slider_1_2');
+						tpopt.fullScreen = "off";
+						tpopt.forceFullWidth="off";
+
+					tpopt.container.closest(".rev_slider_wrapper").css({height:tpopt.container.height()});tpopt.width=parseInt(tpopt.container.width(),0);tpopt.height=parseInt(tpopt.container.height(),0);tpopt.bw=tpopt.width/tpopt.startwidth;tpopt.bh=tpopt.height/tpopt.startheight;if(tpopt.bh>tpopt.bw)tpopt.bh=tpopt.bw;if(tpopt.bh<tpopt.bw)tpopt.bw=tpopt.bh;if(tpopt.bw<tpopt.bh)tpopt.bh=tpopt.bw;if(tpopt.bh>1){tpopt.bw=1;tpopt.bh=1}if(tpopt.bw>1){tpopt.bw=1;tpopt.bh=1}tpopt.height=Math.round(tpopt.startheight*(tpopt.width/tpopt.startwidth));if(tpopt.height>tpopt.startheight&&tpopt.autoHeight!="on")tpopt.height=tpopt.startheight;if(tpopt.fullScreen=="on"){tpopt.height=tpopt.bw*tpopt.startheight;var cow=tpopt.container.parent().width();var coh=jQuery(window).height();if(tpopt.fullScreenOffsetContainer!=undefined){try{var offcontainers=tpopt.fullScreenOffsetContainer.split(",");jQuery.each(offcontainers,function(e,t){coh=coh-jQuery(t).outerHeight(true);if(coh<tpopt.minFullScreenHeight)coh=tpopt.minFullScreenHeight})}catch(e){}}tpopt.container.parent().height(coh);tpopt.container.height(coh);tpopt.container.closest(".rev_slider_wrapper").height(coh);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(coh);tpopt.container.css({height:"100%"});tpopt.height=coh;}else{tpopt.container.height(tpopt.height);tpopt.container.closest(".rev_slider_wrapper").height(tpopt.height);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(tpopt.height);}
+				};
+
+				/* CALL PLACEHOLDER */
+				setREVStartSize();
+
+
+				var tpj=jQuery;
+				tpj.noConflict();
+				var revapi1;
+
+				tpj(document).ready(function() {
+
+				if(tpj('#rev_slider_1_2').revolution == undefined)
+					revslider_showDoubleJqueryError('#rev_slider_1_2');
+				else
+				   revapi1 = tpj('#rev_slider_1_2').show().revolution(
+					{
+						dottedOverlay:"none",
+						delay:3000,
+						startwidth:1180,
+						startheight:450,
+						hideThumbs:200,
+
+						thumbWidth:200,
+						thumbHeight:80,
+						thumbAmount:3,
+						
+												
+						simplifyAll:"off",
+
+						navigationType:"bullet",
+						navigationArrows:"none",
+						navigationStyle:"round",
+
+						touchenabled:"on",
+						onHoverStop:"on",
+						nextSlideOnWindowFocus:"off",
+
+						swipe_threshold: 0.7,
+						swipe_min_touches: 1,
+						drag_block_vertical: false,
+						
+												
+												
+						keyboardNavigation:"off",
+
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:40,
+						navigationVOffset:40,
+
+						soloArrowLeftHalign:"right",
+						soloArrowLeftValign:"bottom",
+						soloArrowLeftHOffset:90,
+						soloArrowLeftVOffset:40,
+
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"bottom",
+						soloArrowRightHOffset:40,
+						soloArrowRightVOffset:40,
+
+						shadow:0,
+						fullWidth:"on",
+						fullScreen:"off",
+
+						spinner:"spinner0",
+						
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+
+						shuffle:"off",
+
+						autoHeight:"off",
+						forceFullWidth:"off",
+						
+						
+						hideTimerBar:"on",
+						hideThumbsOnMobile:"on",
+						hideBulletsOnMobile:"off",
+						hideArrowsOnMobile:"off",
+						hideThumbsUnderResolution:768,
+
+												hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						startWithSlide:0					});
+
+
+
+					
+				});	/*ready*/
+
+			</script>
+
+
+			<div class="tp-bullets simplebullets round hidebullets" style="bottom: 40px; left: 50%; margin-left: -2px;"><div class="bullet first"></div><div class="bullet selected"></div><div class="bullet last"></div><div class="tpclear"></div></div><div style="visibility:hidden;display:none" class="tp-leftarrow tparrows round hidearrows"><div class="tp-arr-allwrapper"><div class="tp-arr-iwrapper"><div class="tp-arr-imgholder" style="visibility: inherit; opacity: 1; background-image: url(&quot;http://bhilwarainfo.com/wp-content/uploads/2018/07/slide1.jpg&quot;);"></div><div class="tp-arr-imgholder2"></div><div class="tp-arr-titleholder"></div><div class="tp-arr-subtitleholder"></div></div></div></div><div style="visibility:hidden;display:none" class="tp-rightarrow tparrows round hidearrows"><div class="tp-arr-allwrapper"><div class="tp-arr-iwrapper"><div class="tp-arr-imgholder" style="visibility: inherit; opacity: 1; background-image: url(&quot;http://bhilwarainfo.com/wp-content/uploads/2018/10/slide3.jpg&quot;);"></div><div class="tp-arr-imgholder2"></div><div class="tp-arr-titleholder"></div><div class="tp-arr-subtitleholder"></div></div></div></div></div><!-- END REVOLUTION SLIDER --></div>			</header>
+				
+					
+		</div>	
+<!-- #Content -->
+<div id="Content">
+	<div class="content_wrapper clearfix">
+
+		<!-- .sections_group -->
+		<div class="sections_group">
+			<div class="section    " style="padding-top:50px; padding-bottom:0px; background-color:"><div class="section_wrapper clearfix"><div class="items_group clearfix"><div class="column one column_fancy_heading"><div class="fancy_heading fancy_heading_icon"><h2 class="title">Bhilwara Infotechnology Ltd</h2></div>
+</div><div class="column two-third column_column"><div class="animate" data-anim-type="fadeIn"><h2>Who we are</h2>
+<p>Bhilwara Infotechnology Limited (BIL) is a dedicated technology consulting and implementation company and is a part of the LNJ Bhilwara Group, one of the largest employers in India.</p>
+
+<p>Our team of highly skilled, experienced and motivated professionals are committed towards harnessing technology for providing the best solutions to our customers. Our corporate goal is to provide the best products and services to our customers and build strong and long-term relationship with them.</p></div></div><div class="column one-third column_column"><div class="animate" data-anim-type="fadeIn"><img src="http://weble.in/bhilwara/wp-content/uploads/2018/07/lnj-logo.jpg" alt="" width="376" height="128" class="alignnone size-full wp-image-496"></div></div></div></div></div><div class="section  dark  " style="padding-top:60px; padding-bottom:20px; background-color:#2f69bf"><div class="section_wrapper clearfix"><div class="items_group clearfix"><div class="column one column_fancy_heading"><div class="fancy_heading fancy_heading_icon"><h2 class="title">Our Products &amp; Services</h2></div>
+</div><div class="column one-third column_photo_box"><div class="photo_box pb_left"><h4>Infrastructure Management Services</h4><div class="image_frame"><div class="image_wrapper"><a href="http://bhilwarainfo.com/index.php/infrastructure-management-services/"><div class="mask"></div><img class="scale-with-grid" src="./Bhilwara2_files/infmthumb.jpg" alt="Infrastructure Management Services"></a></div></div><div class="desc"></div></div>
+</div><div class="column one-third column_photo_box"><div class="photo_box pb_left"><h4>Big Data Analytics</h4><div class="image_frame"><div class="image_wrapper"><a href="http://bhilwarainfo.com/index.php/bigdata-analytics/"><div class="mask"></div><img class="scale-with-grid" src="./Bhilwara2_files/bigdatathumb.jpg" alt="Big Data Analytics"></a></div></div><div class="desc"></div></div>
+</div><div class="column one-third column_photo_box"><div class="photo_box pb_left"><h4>Software / Product Development</h4><div class="image_frame"><div class="image_wrapper"><a href="http://bhilwarainfo.com/index.php/software-product-development-service/"><div class="mask"></div><img class="scale-with-grid" src="./Bhilwara2_files/software-development-thumb.jpg" alt="Software / Product Development"></a></div></div><div class="desc"></div></div>
+</div><div class="column one-third column_photo_box"><div class="photo_box pb_left"><h4>Testing Services</h4><div class="image_frame"><div class="image_wrapper"><a href="http://bhilwarainfo.com/index.php/testing-services/"><div class="mask"></div><img class="scale-with-grid" src="./Bhilwara2_files/testingservices.jpg" alt="Testing Services"></a></div></div><div class="desc"></div></div>
+</div><div class="column one-third column_photo_box"><div class="photo_box pb_left"><h4>IT Staffing Services</h4><div class="image_frame"><div class="image_wrapper"><a href="http://bhilwarainfo.com/index.php/it-staffing-services/"><div class="mask"></div><img class="scale-with-grid" src="./Bhilwara2_files/itstaffing.jpg" alt="IT Staffing Services"></a></div></div><div class="desc"></div></div>
+</div></div></div></div><div class="section    " style="padding-top:60px; padding-bottom:20px; background-color:"><div class="section_wrapper clearfix"><div class="items_group clearfix"><div class="column one column_fancy_heading"><div class="fancy_heading fancy_heading_icon"><h2 class="title">Our Clients</h2></div>
+</div><div class="column one column_clients_slider"><div class="clients_slider"><div class="clients_slider_header"><a class="button button_js slider_prev" href="http://bhilwarainfo.com/#" style="display: block;"><span class="button_icon"><i class="icon-left-open-big"></i></span></a><a class="button button_js slider_next" href="http://bhilwarainfo.com/#" style="display: block;"><span class="button_icon"><i class="icon-right-open-big"></i></span></a></div><div class="caroufredsel_wrapper" style="display: block; text-align: start; float: none; position: relative; top: auto; right: auto; bottom: auto; left: auto; z-index: auto; width: 1176px; height: 151px; margin: 0px; overflow: hidden; cursor: move;"><ul class="clients clients_slider_ul" style="text-align: left; float: none; position: absolute; top: 0px; right: auto; bottom: auto; left: 0px; margin: 0px; width: 4704px; height: 106px; z-index: auto;"><li style="width: 294px;"><div class="client_wrapper"><img width="276" height="125" src="./Bhilwara2_files/ntt.jpg" class="scale-with-grid wp-post-image" alt="" srcset="http://bhilwarainfo.com/wp-content/uploads/2018/07/ntt.jpg 276w, http://bhilwarainfo.com/wp-content/uploads/2018/07/ntt-260x118.jpg 260w, http://bhilwarainfo.com/wp-content/uploads/2018/07/ntt-50x23.jpg 50w" sizes="(max-width: 276px) 100vw, 276px"></div></li><li style="width: 294px;"><div class="client_wrapper"><img width="276" height="125" src="./Bhilwara2_files/hcl.jpg" class="scale-with-grid wp-post-image" alt="" srcset="http://bhilwarainfo.com/wp-content/uploads/2018/07/hcl.jpg 276w, http://bhilwarainfo.com/wp-content/uploads/2018/07/hcl-260x118.jpg 260w, http://bhilwarainfo.com/wp-content/uploads/2018/07/hcl-50x23.jpg 50w" sizes="(max-width: 276px) 100vw, 276px"></div></li><li style="width: 294px;"><div class="client_wrapper"><img width="276" height="125" src="./Bhilwara2_files/dell.jpg" class="scale-with-grid wp-post-image" alt="" srcset="http://bhilwarainfo.com/wp-content/uploads/2018/07/dell.jpg 276w, http://bhilwarainfo.com/wp-content/uploads/2018/07/dell-260x118.jpg 260w, http://bhilwarainfo.com/wp-content/uploads/2018/07/dell-50x23.jpg 50w" sizes="(max-width: 276px) 100vw, 276px"></div></li><li style="width: 294px;"><div class="client_wrapper"><img width="276" height="125" src="./Bhilwara2_files/infosys.jpg" class="scale-with-grid wp-post-image" alt="" srcset="http://bhilwarainfo.com/wp-content/uploads/2018/07/infosys.jpg 276w, http://bhilwarainfo.com/wp-content/uploads/2018/07/infosys-260x118.jpg 260w, http://bhilwarainfo.com/wp-content/uploads/2018/07/infosys-50x23.jpg 50w" sizes="(max-width: 276px) 100vw, 276px"></div></li><li style="width: 294px;"><div class="client_wrapper"><img width="276" height="125" src="./Bhilwara2_files/oracle.jpg" class="scale-with-grid wp-post-image" alt="" srcset="http://bhilwarainfo.com/wp-content/uploads/2018/07/oracle.jpg 276w, http://bhilwarainfo.com/wp-content/uploads/2018/07/oracle-260x118.jpg 260w, http://bhilwarainfo.com/wp-content/uploads/2018/07/oracle-50x23.jpg 50w" sizes="(max-width: 276px) 100vw, 276px"></div></li><li style="width: 294px;"><div class="client_wrapper"><img width="276" height="125" src="./Bhilwara2_files/hp.jpg" class="scale-with-grid wp-post-image" alt="" srcset="http://bhilwarainfo.com/wp-content/uploads/2018/07/hp.jpg 276w, http://bhilwarainfo.com/wp-content/uploads/2018/07/hp-260x118.jpg 260w, http://bhilwarainfo.com/wp-content/uploads/2018/07/hp-50x23.jpg 50w" sizes="(max-width: 276px) 100vw, 276px"></div></li></ul></div></div>
+
+</div></div></div></div><div class="section the_content"><div class="section_wrapper"><div class="the_content_wrapper"></div></div></div>		</div>
+		
+		<!-- .four-columns - sidebar -->
+		
+
+	</div>
+</div>
+
+
+<!-- #Footer -->		
+<footer id="Footer" class="clearfix">
+	
+	
+		
+		<div class="footer_copy">
+		<div class="container">
+			<div class="column one">
+				<a id="back_to_top" href="http://bhilwarainfo.com/" class="button button_left button_js"><span class="button_icon"><i class="icon-up-open-big"></i></span></a>
+				
+				<!-- Copyrights -->
+				<div class="copyright">
+					© 2018 Bhilwara infotechnology Ltd. All Rights Reserved. Designed by <a href="https://creativevisuals.in/" target="_blank">Creative Visuals</a>				</div>
+				
+				<!-- Social -->
+				<div class="social">
+					<ul>
+												<li class="facebook"><a target="_blank" href="http://bhilwarainfo.com/#" title="Facebook"><i class="icon-facebook"></i></a></li>												<li class="twitter"><a target="_blank" href="http://bhilwarainfo.com/#" title="Twitter"><i class="icon-twitter"></i></a></li>																								<li class="linked_in"><a target="_blank" href="http://bhilwarainfo.com/#" title="LinkedIn"><i class="icon-linkedin"></i></a></li>																							</ul>
+				</div>
+						
+			</div>
+		</div>
+	</div>
+		
+</footer>
+
+</div><!-- #Wrapper -->
+
+	
+<!-- wp_footer() -->
+<div class="revsliderstyles"><style type="text/css">.tp-caption.large_text{position:absolute;color:#fff;text-shadow:0px 2px 5px rgba(0,0,0,0.5);font-weight:700;font-size:40px;line-height:40px;font-family:Arial;margin:0px;border-width:0px;border-style:none;white-space:nowrap}.tp-caption.medium_light_white{font-size:30px;line-height:36px;font-weight:300;font-family:"Open Sans";color:rgb(255,255,255);text-decoration:none;background-color:transparent;padding:0px;border-width:0px;border-color:rgb(255,214,88);border-style:none}.large_text{position:absolute;color:#fff;text-shadow:0px 2px 5px rgba(0,0,0,0.5);font-weight:700;font-size:40px;line-height:40px;font-family:Arial;margin:0px;border-width:0px;border-style:none;white-space:nowrap}.medium_light_white{font-size:30px;line-height:36px;font-weight:300;font-family:"Open Sans";color:rgb(255,255,255);text-decoration:none;background-color:transparent;padding:0px;border-width:0px;border-color:rgb(255,214,88);border-style:none}</style>
+</div><div class="revsliderstyles"><style type="text/css">.tp-caption.large_text{position:absolute;color:#fff;text-shadow:0px 2px 5px rgba(0,0,0,0.5);font-weight:700;font-size:40px;line-height:40px;font-family:Arial;margin:0px;border-width:0px;border-style:none;white-space:nowrap}.tp-caption.medium_light_white{font-size:30px;line-height:36px;font-weight:300;font-family:"Open Sans";color:rgb(255,255,255);text-decoration:none;background-color:transparent;padding:0px;border-width:0px;border-color:rgb(255,214,88);border-style:none}.large_text{position:absolute;color:#fff;text-shadow:0px 2px 5px rgba(0,0,0,0.5);font-weight:700;font-size:40px;line-height:40px;font-family:Arial;margin:0px;border-width:0px;border-style:none;white-space:nowrap}.medium_light_white{font-size:30px;line-height:36px;font-weight:300;font-family:"Open Sans";color:rgb(255,255,255);text-decoration:none;background-color:transparent;padding:0px;border-width:0px;border-color:rgb(255,214,88);border-style:none}</style>
+</div><script type="text/javascript" src="./Bhilwara2_files/core.min.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/widget.min.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/mouse.min.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/sortable.min.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/tabs.min.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/accordion.min.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/animations.min.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/jquery.jplayer.min.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/colorpicker.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/jquery.plugins.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/mfn.menu.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/scripts.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/comment-reply.min.js.download"></script>
+<script type="text/javascript" src="./Bhilwara2_files/wp-embed.min.js.download"></script>
+
+
+
+<!--Generated by Endurance Page Cache--><div id="ascrail2000" class="nicescroll-rails" style="width: 10px; z-index: auto; cursor: default; position: fixed; top: 0px; height: 100%; right: 0px; opacity: 1;"><div style="position: relative; top: 0px; float: right; width: 10px; height: 163px; background-color: rgb(34, 34, 34); border: 0px; background-clip: padding-box; border-radius: 5px;"></div></div></body></html>
